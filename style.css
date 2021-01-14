@@ -25,6 +25,9 @@ h1, h3, h5{
 .extra-txt-color li>a {
     color: black !important;
 }
+.extra-txt-color li>a:hover {
+    color: #1970e2 !important;
+}
 .footer-bg-color{
     background-color: #FFF9F4;
 }
