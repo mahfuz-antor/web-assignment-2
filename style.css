@@ -1,0 +1,21 @@
+.header-bg{
+    background-color: #FFF9F4;
+}
+.extra-border{
+    border: none !important;
+}
+h1, h3, h5{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.extra-header-heading-t{
+    color: #FA804C;
+}
+.extra-header-heading-b{
+    color: #363958;
+}
+.price-color{
+    color: #FA804C;
+}
+.extra-heading-color{
+    color: #363958;
+}
