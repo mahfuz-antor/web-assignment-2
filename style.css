@@ -3,6 +3,7 @@
 }
 .extra-border{
     border: none !important;
+    border-radius: 20px !important;
 }
 h1, h3, h5{
     font-family: 'Roboto Condensed', sans-serif;
@@ -18,4 +19,21 @@ h1, h3, h5{
 }
 .extra-heading-color{
     color: #363958;
+}
+.extra-txt-color li>a {
+    color: black !important;
+}
+.footer-bg-color{
+    background-color: #FFF9F4;
+}
+.footer-top-link>a {
+    text-decoration: none;
+}
+.total-footer{
+    text-align: center;
+}
+.copyright{
+    color: #3d1d1d;
+    background-color: #e4c8ac;
+    border-radius: 50px;
 }
