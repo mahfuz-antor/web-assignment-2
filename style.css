@@ -10,9 +10,11 @@ h1, h3, h5{
 }
 .extra-header-heading-t{
     color: #FA804C;
+    font-size: 55px;
 }
 .extra-header-heading-b{
     color: #363958;
+    font-size: 55px;
 }
 .price-color{
     color: #FA804C;
